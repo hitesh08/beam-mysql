@@ -1,5 +1,5 @@
--- Due to RDP plugin.
 {-# OPTIONS_GHC -Wno-incomplete-record-updates #-}
+{-# OPTIONS_GHC -Wno-ambiguous-fields #-}
 {-# LANGUAGE TypeFamilies #-}
 
 module Database.Beam.MySQL.Syntax.Select where
